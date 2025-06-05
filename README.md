@@ -16,4 +16,4 @@ A responsive and user-friendly pizza ordering web application that allows custom
 
 - **HTML5 & CSS3**: For structuring and styling the application.
 - **JavaScript (ES6)**: To handle dynamic behaviors and user interactions.
-- **React.js** (if used): For building UI components.
+
